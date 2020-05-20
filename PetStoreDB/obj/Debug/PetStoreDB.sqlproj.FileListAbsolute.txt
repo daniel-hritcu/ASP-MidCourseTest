@@ -1,0 +1,10 @@
+C:\Users\Alienware\source\repos\PetStoreDB\bin\Debug\PetStoreDB.dacpac
+C:\Users\Alienware\source\repos\PetStoreDB\bin\Debug\PetStoreDB.dll
+C:\Users\Alienware\source\repos\PetStoreDB\bin\Debug\PetStoreDB.pdb
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\PetStoreDB.sqlprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\PetStoreDB.dll
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\PetStoreDB.pdb
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\Model.xml
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\refactor.xml
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\postdeploy.sql
+C:\Users\Alienware\source\repos\PetStoreDB\obj\Debug\predeploy.sql

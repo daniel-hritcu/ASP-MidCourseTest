@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Dogs]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Breed] VARCHAR(50) NOT NULL 
+)
